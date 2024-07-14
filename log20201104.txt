@@ -1,0 +1,396 @@
+2020-11-04 00:25:56.486 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-39952).
+2020-11-04 00:26:00.329 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-39952).
+2020-11-04 00:26:03.517 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-39917).
+2020-11-04 02:29:26.959 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40073).
+2020-11-04 02:29:27.600 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40073).
+2020-11-04 02:29:31.537 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-18225).
+2020-11-04 02:29:31.991 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-18225).
+2020-11-04 02:29:35.366 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-16297).
+2020-11-04 02:29:35.850 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-16297).
+2020-11-04 02:29:38.069 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40070).
+2020-11-04 02:29:38.428 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40070).
+2020-11-04 02:29:40.819 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40044).
+2020-11-04 02:29:41.162 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40044).
+2020-11-04 02:29:44.006 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-39874).
+2020-11-04 02:29:44.647 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39874).
+2020-11-04 02:29:47.600 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-16226).
+2020-11-04 02:29:48.006 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-16226).
+2020-11-04 02:29:51.553 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13906).
+2020-11-04 02:29:51.959 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13906).
+2020-11-04 02:29:55.631 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-12720).
+2020-11-04 02:29:56.709 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12720).
+2020-11-04 03:59:25.994 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost brez ponudbe, v 48 urah ni vpisa dogodka - 14730, TO: Admir.Taranis@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - brez vpisa dogodka po 48 urah on object (113-40134).
+2020-11-04 03:59:26.354 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost brez ponudbe, v 48 urah ni vpisa dogodka - 14701, TO: Joe.Biden@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - brez vpisa dogodka po 48 urah on object (113-40105).
+2020-11-04 04:29:26.064 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14661, TO: Kaja.KambicKastelic@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Donald.Trump@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-40065).
+2020-11-04 04:29:26.502 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14714, TO: Joe.Biden@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Donald.Trump@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-40118).
+2020-11-04 04:29:26.924 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14631, TO: Joe.Biden@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Donald.Trump@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-40035).
+2020-11-04 04:29:27.361 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14711, TO: Joe.Biden@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Donald.Trump@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-40115).
+2020-11-04 04:29:28.143 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14728, TO: Nora.Borcsok@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Janovics.Istvan@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-40132).
+2020-11-04 04:29:28.830 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14726, TO: Janovics.Istvan@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Janovics.Istvan@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-40130).
+2020-11-04 04:29:29.269 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Obvestilo] - Priložnost je AKTIVNA S PONUDBO, v 48 urah ni vpisa dogodka - klic - 14587, TO: Joe.Biden@company.com, CC: Nina.Kasparov@company.com, Janez.Jansa@company.com, John.Smith@company.com, Donald.Trump@company.com, BCC: Dave.Pierce@company.com for rule Obvestilo - v 48 urah ni vpisa dogodka - klic on object (113-39992).
+2020-11-04 05:59:28.275 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40135).
+2020-11-04 05:59:28.337 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40136).
+2020-11-04 05:59:29.041 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [HTTP integration] Rule Otvori TO-DO - 48ur ni Ponudbe [out] za Priložnost updated object (113-40135).
+2020-11-04 05:59:29.041 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [HTTP integration] Rule Otvori TO-DO - v 48 urah ni vpisa dogodka - klic updated object (113-40136).
+2020-11-04 05:59:31.182 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40137).
+2020-11-04 05:59:31.635 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [HTTP integration] Rule Otvori TO-DO - 48ur ni Ponudbe [out] za Priložnost updated object (113-40137).
+2020-11-04 05:59:33.822 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40138).
+2020-11-04 05:59:34.182 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [HTTP integration] Rule Otvori TO-DO - 48ur ni Ponudbe [out] za Priložnost updated object (113-40138).
+2020-11-04 05:59:36.416 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40139).
+2020-11-04 05:59:36.822 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [HTTP integration] Rule Otvori TO-DO - 48ur ni Ponudbe [out] za Priložnost updated object (113-40139).
+2020-11-04 06:38:54.196 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-38507).
+2020-11-04 06:38:57.509 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-38507).
+2020-11-04 07:05:47.743 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649476).
+2020-11-04 07:05:55.899 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649476).
+2020-11-04 07:05:56.946 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649476).
+2020-11-04 07:06:16.899 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649082).
+2020-11-04 07:06:18.040 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649082).
+2020-11-04 07:06:37.039 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649153).
+2020-11-04 07:06:38.133 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649153).
+2020-11-04 07:07:02.445 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4647186).
+2020-11-04 07:07:03.539 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4647186).
+2020-11-04 07:07:18.726 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4647186).
+2020-11-04 07:07:34.476 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649153).
+2020-11-04 07:07:48.070 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649082).
+2020-11-04 07:07:59.195 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649476).
+2020-11-04 07:25:43.406 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13660).
+2020-11-04 07:26:01.406 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13660).
+2020-11-04 07:26:18.922 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-38708).
+2020-11-04 07:26:23.235 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-38708).
+2020-11-04 07:26:45.703 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13755).
+2020-11-04 07:27:19.376 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-38306).
+2020-11-04 07:30:08.503 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 07:30:10.706 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40143).
+2020-11-04 07:30:14.144 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40143).
+2020-11-04 07:30:14.222 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 07:30:17.769 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 07:30:56.394 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 07:31:02.332 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 07:31:08.675 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 07:50:11.252 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649587).
+2020-11-04 07:59:25.168 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: John.Smith@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43205).
+2020-11-04 07:59:25.230 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43205) were sent successfully.
+2020-11-04 07:59:25.933 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43208).
+2020-11-04 07:59:25.996 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43208) were sent successfully.
+2020-11-04 07:59:26.965 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43238).
+2020-11-04 07:59:27.012 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43238) were sent successfully.
+2020-11-04 07:59:27.574 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43242).
+2020-11-04 07:59:27.637 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43242) were sent successfully.
+2020-11-04 07:59:28.340 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43245).
+2020-11-04 07:59:28.402 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43245) were sent successfully.
+2020-11-04 07:59:29.027 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43282).
+2020-11-04 07:59:29.090 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43282) were sent successfully.
+2020-11-04 07:59:29.715 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: andrej.zupancic@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43300).
+2020-11-04 07:59:29.777 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43300) were sent successfully.
+2020-11-04 07:59:30.183 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: andrej.zupancic@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43320).
+2020-11-04 07:59:30.230 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43320) were sent successfully.
+2020-11-04 07:59:30.887 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43514).
+2020-11-04 07:59:30.933 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43514) were sent successfully.
+2020-11-04 07:59:31.543 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: John.Smith@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43567).
+2020-11-04 07:59:31.590 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43567) were sent successfully.
+2020-11-04 07:59:32.230 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43947).
+2020-11-04 07:59:32.293 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43947) were sent successfully.
+2020-11-04 07:59:33.012 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Dejan.Bohte@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-43963).
+2020-11-04 07:59:33.074 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-43963) were sent successfully.
+2020-11-04 07:59:33.715 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: peter.valkai@company.com, CC: Dejan.Bohte@company.com, John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-44080).
+2020-11-04 07:59:33.777 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-44080) were sent successfully.
+2020-11-04 07:59:34.496 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: peter.valkai@company.com, CC: Dejan.Bohte@company.com, John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-44210).
+2020-11-04 07:59:34.558 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-44210) were sent successfully.
+2020-11-04 07:59:35.324 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: peter.valkai@company.com, CC: Dejan.Bohte@company.com, John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-44211).
+2020-11-04 07:59:35.387 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-44211) were sent successfully.
+2020-11-04 07:59:36.027 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Admir.Taranis@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-44285).
+2020-11-04 07:59:36.277 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-44285) were sent successfully.
+2020-11-04 07:59:37.152 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: [Opomnik] e-pošta stranke, TO: Admir.Taranis@company.com, CC: John.Smith@company.com, BCC: Dave.Pierce@company.com for rule Komunikacija s strankami - Opomnik on object (239-44286).
+2020-11-04 07:59:37.230 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (239-44286) were sent successfully.
+2020-11-04 08:13:44.203 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40143).
+2020-11-04 08:13:44.656 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-40143).
+2020-11-04 08:17:28.140 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj SKK - Komunikacija s strankami updated object (239-44295).
+2020-11-04 08:20:27.406 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13755).
+2020-11-04 08:22:56.968 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13660).
+2020-11-04 08:22:57.422 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-13660).
+2020-11-04 08:24:42.031 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13660).
+2020-11-04 08:24:53.953 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-13660).
+2020-11-04 08:25:24.281 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649589).
+2020-11-04 08:29:25.203 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-SI-AB-ŠP-900-01 bo šla v stanje zapadla čez 3 dni, TO: Joe.Biden@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647288).
+2020-11-04 08:29:25.265 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647288) were sent successfully.
+2020-11-04 08:29:25.518 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-3-PV-ho-na-HOD-0062 bo šla v stanje zapadla čez 3 dni, TO: peter.valkai@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647547).
+2020-11-04 08:29:25.578 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647547) were sent successfully.
+2020-11-04 08:29:25.844 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-3-IJ-fi-pr-IZ-0026-01 bo šla v stanje zapadla čez 3 dni, TO: Janovics.Istvan@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647564).
+2020-11-04 08:29:25.922 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647564) were sent successfully.
+2020-11-04 08:29:26.156 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-3-IJ-hl-na-PRD-0050-02 bo šla v stanje zapadla čez 3 dni, TO: Janovics.Istvan@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647573).
+2020-11-04 08:29:26.219 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647573) were sent successfully.
+2020-11-04 08:29:26.594 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-2-AJ-ho-na-HOD-0065 bo šla v stanje zapadla čez 3 dni, TO: Ales.Jovanovic@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647767).
+2020-11-04 08:29:26.656 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647767) were sent successfully.
+2020-11-04 08:29:26.953 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-SI-KAJ-SS-976 bo šla v stanje zapadla čez 1 dni, TO: Kaja.KambicKastelic@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647601).
+2020-11-04 08:29:27.062 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647601) were sent successfully.
+2020-11-04 08:29:27.328 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-3-BN--pr-OZ-0158 bo šla v stanje zapadla čez 1 dni, TO: Nora.Borcsok@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647616).
+2020-11-04 08:29:27.390 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647616) were sent successfully.
+2020-11-04 08:29:27.625 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-SI-AT-IZ-997 bo šla v stanje zapadla čez 2 dni, TO: Admir.Taranis@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647782).
+2020-11-04 08:29:27.703 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647782) were sent successfully.
+2020-11-04 08:29:27.937 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-3-IJ-fi-pr-IZ-0239 bo šla v stanje zapadla čez 3 dni, TO: Janovics.Istvan@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647790).
+2020-11-04 08:29:28.000 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647790) were sent successfully.
+2020-11-04 08:29:28.234 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2019-SI-AB-PRD-274-AN-001 bo šla v stanje zapadla čez 3 dni, TO: Admir.Taranis@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647855).
+2020-11-04 08:29:28.297 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647855) were sent successfully.
+2020-11-04 08:29:28.515 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-SI-AB-ŠP-900-02 bo šla v stanje zapadla čez 3 dni, TO: Joe.Biden@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647858).
+2020-11-04 08:29:28.578 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647858) were sent successfully.
+2020-11-04 08:29:28.812 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-SI-AT-PRD-1011 bo šla v stanje zapadla čez 3 dni, TO: Admir.Taranis@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647868).
+2020-11-04 08:29:28.875 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647868) were sent successfully.
+2020-11-04 08:29:29.125 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2015-1-DV-ho-na-HOD-0031-02-AN-001 bo šla v stanje zapadla čez 3 dni, TO: Joe.Biden@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4647884).
+2020-11-04 08:29:29.187 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4647884) were sent successfully.
+2020-11-04 08:29:29.437 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Sent e-mail message Subject: Ponudba - 2020-SI-AB-SRV-1016 bo šla v stanje zapadla čez 3 dni, TO: Joe.Biden@company.com, CC: John.Smith@company.com, BCC:  for rule Pred potekom Ponudba Out - Opcija ponudbe on object (0-4648017).
+2020-11-04 08:29:29.500 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended e-mail notifications] Notifications for change on object (0-4648017) were sent successfully.
+2020-11-04 08:31:59.140 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (113-40132).
+2020-11-04 08:37:23.150 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649591).
+2020-11-04 08:37:27.978 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649592).
+2020-11-04 08:38:34.057 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649591).
+2020-11-04 08:38:35.010 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649591).
+2020-11-04 08:38:42.667 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649591).
+2020-11-04 08:38:42.729 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Kopiraj Emailove na Pogodbu updated object (0-4649593).
+2020-11-04 08:42:36.778 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [SQL integration] Executed "StoredProcedure" [dbo].[insert_update_Dodatni_Popust_Prodaja]  triggered by object (0-4649521).
+2020-11-04 08:44:28.607 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Executing RunOnce command.
+2020-11-04 08:45:02.154 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649594).
+2020-11-04 08:45:30.591 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649594).
+2020-11-04 08:45:44.779 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649594).
+2020-11-04 08:45:45.810 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649594).
+2020-11-04 08:46:03.013 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property builder] Error in Extended property builder module on source object (0-4649594).
+2020-11-04 08:47:43.998 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Kopiraj Emailove na Pogodbu updated object (0-4649595).
+2020-11-04 08:51:33.969 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj Datum - Komunikacija s strankami updated object (239-44296).
+2020-11-04 08:55:57.438 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649599).
+2020-11-04 09:06:20.189 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649600).
+2020-11-04 09:15:04.392 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Executing RunOnce command.
+2020-11-04 09:15:32.829 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84479).
+2020-11-04 09:15:48.313 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84501).
+2020-11-04 09:16:03.782 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84502).
+2020-11-04 09:16:19.297 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84506).
+2020-11-04 09:16:34.703 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84507).
+2020-11-04 09:16:50.187 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84508).
+2020-11-04 09:17:05.578 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84509).
+2020-11-04 09:17:21.015 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84510).
+2020-11-04 09:17:36.484 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84513).
+2020-11-04 09:17:51.953 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84516).
+2020-11-04 09:18:07.468 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84517).
+2020-11-04 09:18:22.953 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84518).
+2020-11-04 09:18:38.515 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84520).
+2020-11-04 09:18:53.937 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84522).
+2020-11-04 09:19:09.390 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84523).
+2020-11-04 09:19:24.858 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84526).
+2020-11-04 09:19:41.968 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84527).
+2020-11-04 09:19:57.468 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84528).
+2020-11-04 09:20:13.327 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84529).
+2020-11-04 09:20:29.264 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84530).
+2020-11-04 09:20:44.764 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84531).
+2020-11-04 09:21:00.248 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84539).
+2020-11-04 09:21:15.780 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84540).
+2020-11-04 09:21:31.327 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in rule Dogodek - klic - Priložnost Aktivna z Ponudba on source (166-84541).
+2020-11-04 09:21:39.358 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39649).
+2020-11-04 09:21:42.202 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38553).
+2020-11-04 09:21:45.436 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-17874).
+2020-11-04 09:21:48.155 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39501).
+2020-11-04 09:21:50.780 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39934).
+2020-11-04 09:21:53.061 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39789).
+2020-11-04 09:21:55.405 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39879).
+2020-11-04 09:21:58.608 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39907).
+2020-11-04 09:22:01.936 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39954).
+2020-11-04 09:22:04.811 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37793).
+2020-11-04 09:22:07.311 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39961).
+2020-11-04 09:22:09.717 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39932).
+2020-11-04 09:22:12.936 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38337).
+2020-11-04 09:22:15.733 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11771).
+2020-11-04 09:22:18.889 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-10658).
+2020-11-04 09:22:21.452 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39085).
+2020-11-04 09:22:23.764 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39550).
+2020-11-04 09:22:26.264 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38655).
+2020-11-04 09:22:28.936 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13879).
+2020-11-04 09:22:31.904 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37598).
+2020-11-04 09:22:34.873 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38761).
+2020-11-04 09:22:37.920 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37120).
+2020-11-04 09:22:41.389 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12684).
+2020-11-04 09:22:44.732 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12375).
+2020-11-04 09:22:48.404 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11705).
+2020-11-04 09:22:50.936 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39927).
+2020-11-04 09:22:54.373 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-10785).
+2020-11-04 09:22:57.670 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11220).
+2020-11-04 09:23:01.107 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11266).
+2020-11-04 09:23:04.717 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12310).
+2020-11-04 09:23:07.607 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12920).
+2020-11-04 09:23:10.436 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38239).
+2020-11-04 09:23:13.467 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11505).
+2020-11-04 09:23:16.076 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38271).
+2020-11-04 09:23:19.389 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39961).
+2020-11-04 09:23:21.967 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-6146).
+2020-11-04 09:23:24.764 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-4562).
+2020-11-04 09:23:27.373 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12006).
+2020-11-04 09:23:30.123 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37948).
+2020-11-04 09:23:32.498 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39194).
+2020-11-04 09:23:35.014 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39678).
+2020-11-04 09:23:37.826 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-5611).
+2020-11-04 09:23:40.936 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11266).
+2020-11-04 09:23:43.420 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39545).
+2020-11-04 09:23:46.420 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38297).
+2020-11-04 09:23:49.873 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11803).
+2020-11-04 09:23:53.186 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40013).
+2020-11-04 09:23:56.342 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12823).
+2020-11-04 09:23:59.717 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13064).
+2020-11-04 09:24:03.592 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-10420).
+2020-11-04 09:24:10.467 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-10683).
+2020-11-04 09:24:13.483 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-12461).
+2020-11-04 09:24:16.029 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39952).
+2020-11-04 09:24:19.686 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38038).
+2020-11-04 09:24:22.920 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39920).
+2020-11-04 09:24:25.326 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39951).
+2020-11-04 09:24:28.654 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-9257).
+2020-11-04 09:24:32.029 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-9109).
+2020-11-04 09:24:34.639 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39015).
+2020-11-04 09:24:36.717 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40014).
+2020-11-04 09:24:39.249 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39954).
+2020-11-04 09:24:42.420 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11742).
+2020-11-04 09:24:45.732 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39982).
+2020-11-04 09:24:48.357 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39934).
+2020-11-04 09:24:51.061 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40007).
+2020-11-04 09:24:53.576 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39640).
+2020-11-04 09:24:56.170 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37564).
+2020-11-04 09:24:58.639 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13349).
+2020-11-04 09:25:01.514 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-2400).
+2020-11-04 09:25:04.139 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39108).
+2020-11-04 09:25:06.514 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39677).
+2020-11-04 09:25:09.170 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39227).
+2020-11-04 09:25:11.654 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39284).
+2020-11-04 09:25:14.279 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38683).
+2020-11-04 09:25:16.889 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39120).
+2020-11-04 09:25:19.607 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37847).
+2020-11-04 09:25:22.029 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40032).
+2020-11-04 09:25:24.295 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39827).
+2020-11-04 09:25:26.576 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39131).
+2020-11-04 09:25:29.232 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39321).
+2020-11-04 09:25:31.467 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40034).
+2020-11-04 09:25:33.889 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11116).
+2020-11-04 09:25:36.311 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-6703).
+2020-11-04 09:25:38.607 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38577).
+2020-11-04 09:25:40.920 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39296).
+2020-11-04 09:25:43.873 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-10786).
+2020-11-04 09:25:46.389 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39149).
+2020-11-04 09:25:48.873 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40043).
+2020-11-04 09:25:51.357 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40039).
+2020-11-04 09:25:53.592 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39921).
+2020-11-04 09:25:56.748 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-728).
+2020-11-04 09:26:00.764 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-11589).
+2020-11-04 09:26:04.592 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13085).
+2020-11-04 09:26:07.357 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38225).
+2020-11-04 09:26:09.982 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39545).
+2020-11-04 09:26:12.451 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39873).
+2020-11-04 09:26:14.889 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40034).
+2020-11-04 09:26:17.498 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39907).
+2020-11-04 09:26:19.904 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40080).
+2020-11-04 09:26:22.264 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40039).
+2020-11-04 09:26:24.545 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39781).
+2020-11-04 09:26:27.639 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38102).
+2020-11-04 09:26:29.873 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39913).
+2020-11-04 09:26:32.154 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39995).
+2020-11-04 09:26:35.060 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13499).
+2020-11-04 09:26:37.451 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39223).
+2020-11-04 09:26:40.107 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40080).
+2020-11-04 09:26:42.435 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40107).
+2020-11-04 09:26:44.873 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-40065).
+2020-11-04 09:26:47.342 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-1706).
+2020-11-04 09:26:50.357 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-37989).
+2020-11-04 09:26:52.826 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39707).
+2020-11-04 09:26:56.108 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-39720).
+2020-11-04 09:26:59.123 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13350).
+2020-11-04 09:27:01.889 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-6124).
+2020-11-04 09:27:04.623 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-38550).
+2020-11-04 09:27:07.592 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Aktivna z Ponudba updated object (113-13660).
+2020-11-04 09:31:46.657 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Executing RunOnce command.
+2020-11-04 09:31:51.142 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-12423).
+2020-11-04 09:31:53.954 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39587).
+2020-11-04 09:31:56.392 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39612).
+2020-11-04 09:31:58.689 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39584).
+2020-11-04 09:32:01.173 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39683).
+2020-11-04 09:32:05.110 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39765).
+2020-11-04 09:32:07.485 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39938).
+2020-11-04 09:32:10.438 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39839).
+2020-11-04 09:32:13.110 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39895).
+2020-11-04 09:32:15.673 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39705).
+2020-11-04 09:32:19.954 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-5587).
+2020-11-04 09:32:23.110 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39328).
+2020-11-04 09:32:26.032 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-5612).
+2020-11-04 09:32:29.517 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-37146).
+2020-11-04 09:32:32.392 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-12947).
+2020-11-04 09:32:35.564 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-38803).
+2020-11-04 09:32:39.376 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-2677).
+2020-11-04 09:32:44.080 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39869).
+2020-11-04 09:32:49.267 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39958).
+2020-11-04 09:32:51.548 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39787).
+2020-11-04 09:32:53.830 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic updated object (113-39676).
+2020-11-04 09:34:09.737 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40144).
+2020-11-04 09:35:50.566 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40145).
+2020-11-04 09:35:51.754 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40144).
+2020-11-04 09:43:41.522 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40145).
+2020-11-04 09:46:14.945 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649500).
+2020-11-04 09:47:52.179 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj SKK - Komunikacija s strankami updated object (239-44296).
+2020-11-04 09:54:34.981 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649603).
+2020-11-04 09:54:35.810 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649604).
+2020-11-04 09:54:36.403 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649605).
+2020-11-04 09:54:37.091 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649606).
+2020-11-04 09:54:37.841 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649607).
+2020-11-04 09:54:38.560 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649608).
+2020-11-04 09:54:39.263 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649609).
+2020-11-04 09:54:39.903 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649610).
+2020-11-04 09:54:40.685 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649611).
+2020-11-04 09:58:10.620 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-40069).
+2020-11-04 10:06:50.601 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649638).
+2020-11-04 10:08:58.882 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649639).
+2020-11-04 10:47:01.474 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RestoreOriginalStateAction on object (0-4647356).
+2020-11-04 10:56:08.693 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40146).
+2020-11-04 10:56:13.350 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40146).
+2020-11-04 11:05:00.370 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649644).
+2020-11-04 11:10:58.714 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649646).
+2020-11-04 11:15:15.917 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649647).
+2020-11-04 11:23:16.263 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Ponudba out - Relacija ponudbe - Priložnost updated object (113-40145).
+2020-11-04 11:37:44.546 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649650).
+2020-11-04 11:48:22.784 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649058).
+2020-11-04 11:50:45.583 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649432).
+2020-11-04 11:58:31.087 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649592).
+2020-11-04 11:59:39.760 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-40140).
+2020-11-04 11:59:42.182 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Datum klic dogodka updated object (113-40140).
+2020-11-04 12:03:32.908 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649587).
+2020-11-04 12:12:40.003 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649600).
+2020-11-04 12:13:17.930 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649589).
+2020-11-04 12:16:06.315 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649653).
+2020-11-04 12:27:10.614 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649656).
+2020-11-04 12:35:50.723 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj Datum - Komunikacija s strankami updated object (239-44297).
+2020-11-04 12:37:18.285 +01:00 [WRN] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Error in Extended property operations module on source object (0-4649641).
+2020-11-04 12:45:27.491 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649583).
+2020-11-04 12:47:04.626 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj Datum - Komunikacija s strankami updated object (239-44298).
+2020-11-04 12:55:47.197 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649656).
+2020-11-04 13:07:43.172 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Datum klic dogodka updated object (113-39554).
+2020-11-04 13:29:33.387 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40147).
+2020-11-04 13:29:37.372 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40147).
+2020-11-04 13:40:36.450 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40148).
+2020-11-04 13:44:19.435 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Ponudba out - Relacija ponudbe - Priložnost updated object (113-40148).
+2020-11-04 13:47:02.794 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649647).
+2020-11-04 13:56:03.734 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj SKK - Komunikacija s strankami updated object (239-44298).
+2020-11-04 13:56:26.235 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj SKK - Komunikacija s strankami updated object (239-44297).
+2020-11-04 14:02:16.984 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40148).
+2020-11-04 14:08:48.916 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40149).
+2020-11-04 14:08:52.635 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40149).
+2020-11-04 14:17:50.625 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Ponudba out - Relacija ponudbe - Priložnost updated object (113-40149).
+2020-11-04 14:38:22.381 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40150).
+2020-11-04 14:49:36.257 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40150).
+2020-11-04 14:51:39.585 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj Datum - Komunikacija s strankami updated object (239-44299).
+2020-11-04 14:58:41.741 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dodaj SKK - Komunikacija s strankami updated object (239-44299).
+2020-11-04 14:59:18.320 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-40100).
+2020-11-04 14:59:20.898 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Datum klic dogodka updated object (113-40100).
+2020-11-04 14:59:34.866 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property calculations] Rule Kopiraj Ustvaril na Ustavila oseba updated property 1667 on object (113-40151).
+2020-11-04 15:04:30.615 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Priložnosti - Rok oddaje ponudbe updated object (113-40151).
+2020-11-04 15:05:58.115 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-40147).
+2020-11-04 15:06:00.818 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Datum klic dogodka updated object (113-40147).
+2020-11-04 15:11:36.460 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Ponudba out - Relacija ponudbe - Priložnost updated object (113-40150).
+2020-11-04 15:16:51.379 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-39964).
+2020-11-04 15:16:53.801 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Datum klic dogodka updated object (113-39964).
+2020-11-04 15:44:50.527 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - Relacija ponudbe - Priložnost updated object (113-40123).
+2020-11-04 15:44:52.964 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Dogodek - klic - Priložnost Datum klic dogodka updated object (113-40123).
+2020-11-04 15:58:36.569 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended property operations] Rule Ponudba out (on state Potrjena interno) update Priložnost updated object (113-40105).
+2020-11-04 17:52:19.870 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649650).
+2020-11-04 17:52:41.948 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649639).
+2020-11-04 21:14:34.778 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed RemoveWatermarksStateAction on object (0-4649389).
+2020-11-04 22:00:31.411 +01:00 [INF] {E2C67223-862D-40D5-B85E-47D75BF7C4A3} [Extended document processing] Executed AddWatermarkStateAction on object (0-4649690).
